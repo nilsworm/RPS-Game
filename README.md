@@ -1,2 +1,2 @@
-# RPS-Name
+# RPS-Game
 Play Rock-Paper-Scissors!
